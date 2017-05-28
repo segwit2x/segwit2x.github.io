@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# SegWit2x Working Group
 
-You can use the [editor on GitHub](https://github.com/segwit2x/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Charter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The charter of this working group is design, implement, build, test, and deploy the software required to make Bitcoin scale, in accordance with the specific points of the agreement made on May 21, 2017.  Participants in the agreement are expected to allocate technical resources to testing and deploying the software within the timeframe below.
 
-### Markdown
+## Calendar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Initial calendar - subject to change.
 
-```markdown
-Syntax highlighted code block
+* May 23 - Kickoff
+* May 30 - Pre-Alpha
+  * More detailed plan sent out to the Agreement Participants for feedback
+* June 16 - Alpha Milestone
+  * Alpha software ready
+  * New testnet network setup
+  * BIP published
+* June  30 - Beta Milestone
+  * All comments / issues from Alpha have been addressed
+  * Testing complete
+* July 14 - Agreement Participants Install and Test Milestone
+* July 21 - Nodes Running & Signaling begins
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+The initial effort of the working group focuses on producing a segwit2x reference implementation in C++.   This is published to the "segwit2x" branch at [https://github.com/btc1/bitcoin/tree/segwit2x](https://github.com/btc1/bitcoin/tree/segwit2x)
 
-1. Numbered
-2. List
+## Other resources
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/segwit2x/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Add links to projects, such as programming libraries and wallets, that are segwit2x-ready)
