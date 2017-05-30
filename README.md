@@ -6,7 +6,18 @@ The charter of this working group is design, implement, build, test, and deploy 
 
 ## Calendar
 
-TBD
+* May 23 - Kickoff
+* May 30 - Pre-Alpha
+    * More detailed plan sent out to the Agreement Participants for feedback
+* June 16 - Alpha Milestone
+    * Alpha software ready
+    * New testnet network setup
+    * BIP published
+* June  30 - Beta Milestone
+    * All comments / issues from Alpha have been addressed
+    * Testing complete
+* July 14 - Agreement Participants Install and Test Milestone
+* July 21 - Nodes Running & Signaling begins
 
 ## Projects
 
