@@ -19,6 +19,10 @@ The charter of this working group is design, implement, build, test, and deploy 
 * July 14 - Agreement Participants Install and Test Milestone
 * July 21 - Nodes Running & Signaling begins
 
+## Mailing list
+
+A publicly archived, members-only mailing list is available.  [Info page](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-segwit2x), [Archives](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/)
+
 ## Projects
 
 The initial effort of the working group focuses on producing a segwit2x reference implementation in C++.   This is published to the "segwit2x" branch at [https://github.com/btc1/bitcoin/tree/segwit2x](https://github.com/btc1/bitcoin/tree/segwit2x)
