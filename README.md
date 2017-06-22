@@ -27,6 +27,8 @@ A publicly archived, members-only mailing list is available.  [Info page](https:
 
 The initial effort of the working group focuses on producing a segwit2x reference implementation in C++.   This is published to the "segwit2x" branch at [https://github.com/btc1/bitcoin/tree/segwit2x](https://github.com/btc1/bitcoin/tree/segwit2x)
 
+[Testnet5 faucet here](http://btcfaucet.ix28uktqsp.us-west-2.elasticbeanstalk.com/) (don't forget to send your testnet coins back!)
+
 ## Other resources
 
 (Add links to projects, such as programming libraries and wallets, that are segwit2x-ready)
