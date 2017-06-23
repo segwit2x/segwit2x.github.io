@@ -27,7 +27,8 @@ A publicly archived, members-only mailing list is available.  [Info page](https:
 
 The initial effort of the working group focuses on producing a segwit2x reference implementation in C++.   This is published to the "segwit2x" branch at [https://github.com/btc1/bitcoin/tree/segwit2x](https://github.com/btc1/bitcoin/tree/segwit2x)
 
-[Testnet5 faucet here](http://btcfaucet.ix28uktqsp.us-west-2.elasticbeanstalk.com/) (don't forget to send your testnet coins back!)
+Want to browse testnet5? [Bitcoin Testnet5 block explorer)(https://testnet5.blockchain.info/)
+Need testnet5 coins? [Bitcoin Testnet5 faucet](http://btcfaucet.ix28uktqsp.us-west-2.elasticbeanstalk.com/) (don't forget to send your testnet5 coins back!)
 
 ## Other resources
 
