@@ -1,6 +1,8 @@
 
 # segwit2x Release Guide
 
+Status:  WIP
+
 ## Introduction
 
 This is a guide with migration and deployment recommendations for the
