@@ -32,4 +32,6 @@ The initial effort of the working group focuses on producing a segwit2x referenc
 
 ## Other resources
 
+* [Work in Progress / WIP] SegWit2x [Release Guide](segwit2x-guide.md)
+
 (Add links to projects, such as programming libraries and wallets, that are segwit2x-ready)
