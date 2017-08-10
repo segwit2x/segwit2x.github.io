@@ -12,13 +12,20 @@ The November 2107 upgrade to 2MB blocks is a hard-fork, but necessary changes ar
 
 For SegWit-compatible clients:
 
-- Maximum block weight doubles from 4,000,000 to 8,000,000.
-- Sig-ops per block doubles from 80,000 to 160,000.
+- Maximum block weight doubles from 4,000,000 to 8,000,000
+- Sig-ops per block doubles from 80,000 to 160,000
 
 For regular clients:
 
-- Maximum block size doubles from 1,000,000 to 2,000,000.
-- Sig-ops per block doubles from 20,000 to 40,000.
+- Maximum block size doubles from 1,000,000 to 2,000,000
+- Sig-ops per block doubles from 20,000 to 40,000
+
+Both types of clients should add new DNS seeds:
+
+- BitPay: seed.mainnet.b-pay.net
+- OB1: seed.ob1.io
+- Blockchain: seed.blockchain.info
+- Bloq: bitcoin.bloqseeds.net
 
 ## Testnet5
 
@@ -35,6 +42,7 @@ Block size/weight and sig-ops changes above also apply to Testnet5.
 
 - BTC1: https://github.com/btc1/bitcoin
 - Bitcoin Unlimited: https://www.bitcoinunlimited.info/
+- Bitcoin Classic: https://bitcoinclassic.com/
 
 ## Incompatible Fully-Validating Node Software
 
