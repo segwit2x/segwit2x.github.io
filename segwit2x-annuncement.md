@@ -8,7 +8,7 @@ Segregated Witness support has been locked-in as a soft fork expected to activat
 
 ## Readiness Checklist
 
-The November 2107 upgrade to 2MB blocks is a hard-fork, but necessary changes are trivial to perform. Some SPV clients are expected to work without any change at all. Most clients will need to tweak only two constants to remain compatible with the new larger blocks:
+The November 2017 upgrade to 2MB blocks is a hard-fork, but necessary changes are trivial to perform. Some SPV clients are expected to work without any change at all. Most clients will need to tweak only two constants to remain compatible with the new larger blocks:
 
 For SegWit-compatible clients:
 
