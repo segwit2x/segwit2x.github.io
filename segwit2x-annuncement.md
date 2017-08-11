@@ -15,9 +15,9 @@ For SegWit-compatible clients:
 - Maximum block weight doubles from 4,000,000 to 8,000,000
 - Sig-ops per block doubles from 80,000 to 160,000
 
-For regular clients:
+For non-SegWit-capable clients:
 
-- Maximum block size doubles from 1,000,000 to 2,000,000
+- Maximum base block size doubles from 1,000,000 to 2,000,000
 - Sig-ops per block doubles from 20,000 to 40,000
 
 Both types of clients should add new DNS seeds:
