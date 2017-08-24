@@ -18,6 +18,8 @@ The charter of this working group is design, implement, build, test, and deploy 
     * Testing complete
 * July 14 - Agreement Participants Install and Test Milestone
 * July 21 - Nodes Running & Signaling begins
+* August 23 - SegWit active on network
+* August status report [in English](August Status Report for Segwit2x-en.pdf), and [in Chinese](August Status Report for Segwit2x-zh.pdf)
 
 ## Mailing list
 
